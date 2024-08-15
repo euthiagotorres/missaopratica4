@@ -14,7 +14,7 @@ pessoa_juridica.imprimir_dados()
 #alterando dados via Setter
 pessoa.nome='João Silva'
 pessoa_fisica.cpf='12312312345'
-pessoa_juridica._cnpj='00000000/0001-11'
+pessoa_juridica._cnpj='00.000.000/0001-11'
 
 pessoa.imprimir_dados()
 pessoa_fisica.imprimir_dados()
